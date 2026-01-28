@@ -63,12 +63,10 @@ Currently exploring:
   An NLP-Based Application for Course Outline–Driven 
   Alignment of Outcomes and Industry Competency Demands in the BSIT Program
 
-
 - **Responsive Budget Tracker**  
-  Expense, Bills, Debt, and Savings Tracker with Authentication  
-
-- **Capstone Project Collections**  
-  CROSS 5.0 aligned IT project ideas with social and environmental impact  
+  Expense, Bills, Debt, and Savings Tracker with Authentication
+  
+- **FRAIM: To-Do List Application**   
 
 ---
 
