@@ -70,7 +70,7 @@ Currently exploring:
 - **Responsive Budget Tracker**  
   Expense, Bills, Debt, and Savings Tracker with Authentication
   
-- **FRAIM: To-Do List Application** 
+- **FRAIM: To-Do List Application**
   A mobile to-do list application implementing Create, Read, Update, and Delete operations. 
 
 ---
