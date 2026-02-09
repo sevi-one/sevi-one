@@ -67,8 +67,12 @@ Currently exploring:
   An NLP-Based Application for Course Outline–Driven 
   Alignment of Outcomes and Industry Competency Demands in the BSIT Program
 
-- **Responsive Budget Tracker**  
-  Expense, Bills, Debt, and Savings Tracker with Authentication
+- **Ex-traque**  
+  The professional-grade companion for tracking every transaction, paying bills on time, and smashing your savings goals.
+  <a href="https://ex-traque.vercel.app" target="_blank">
+  <img alt="Extraque" src="https://img.shields.io/badge/Extraque-Your_Tagline_Here-078971?style=for-the-badge"/>
+</a>
+
   
 - **FRAIM: To-Do List Application**  
   A mobile to-do list application implementing Create, Read, Update, and Delete operations. 
