@@ -70,7 +70,7 @@ Currently exploring:
 - **Ex-traque**  
   The professional-grade companion for tracking every transaction, paying bills on time, and smashing your savings goals.
   <a href="https://ex-traque.vercel.app" target="_blank">
-  <img alt="Extraque" src="https://img.shields.io/badge/Extraque-Your_Tagline_Here-078971?style=for-the-badge"/>
+  <img alt="Extraque" src="https://img.shields.io/badge/Extraque-Expensive_Tracking-078971?style=for-the-badge"/>
 </a>
 
   
