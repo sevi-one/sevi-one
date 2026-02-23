@@ -70,7 +70,7 @@ Others involve:
   Alignment of Outcomes and Industry Competency Demands in the BSIT Program
 
 - **Lapify**  
-  The professional-grade companion for tracking every transaction, paying bills on time, and smashing your savings goals.
+  A laptop recommendation application powered by Google Sheets data, designed for both casual buyers and expert administrators.
   <a href="https://lapify-lime.vercel.app" target="_blank">
   <img alt="Lapify" src="https://img.shields.io/badge/Lapify-Laptop_Recommendation-078971?style=for-the-badge"/>
 </a>
