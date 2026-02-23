@@ -69,6 +69,12 @@ Others involve:
   An NLP-Based Application for Course Outline–Driven 
   Alignment of Outcomes and Industry Competency Demands in the BSIT Program
 
+- **Lapify**  
+  The professional-grade companion for tracking every transaction, paying bills on time, and smashing your savings goals.
+  <a href="https://lapify-lime.vercel.app" target="_blank">
+  <img alt="Lapify" src="https://img.shields.io/badge/Lapify-Laptop_Recommendation-078971?style=for-the-badge"/>
+</a>
+
 - **Ex-traque**  
   The professional-grade companion for tracking every transaction, paying bills on time, and smashing your savings goals.
   <a href="https://extraque.vercel.app" target="_blank">
