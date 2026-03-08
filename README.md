@@ -1,30 +1,12 @@
 # Hi, I’m Louies 👋
 
-🎓 BSIT Student  
-💻 Aspiring Software Developer  
-🌱 Interested in Web Development, AI, and Digital Solutions  
-📍 Philippines  
-
----
-
-## 🚀 About Me
-
-I am a BSIT student passionate about building practical and impactful software projects.  
-I enjoy turning ideas into real applications, especially those focused on productivity, education, and social impact.
-
-Currently exploring:
+## 🔎 EXPLORING
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
-
-Others involve:
-- Full Stack Web Development
-- AI assisted applications
-- System design and project architecture
----
 
 ## 🛠 Tech Stack
 ## 🌐 Frontend / Web Frameworks
@@ -53,17 +35,8 @@ Others involve:
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sevi-one&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sevi-one&layout=compact&theme=tokyonight)
-
----
-
-## 📌 Featured Projects
+## 📌 FEATURED PROJECTS
 
 - **OutcomeX**  
   An NLP-Based Application for Course Outline–Driven 
@@ -85,13 +58,3 @@ Others involve:
 - **FRAIM: To-Do List Application**  
   A mobile to-do list application implementing Create, Read, Update, and Delete operations. 
 
----
-
-## 📫 Connect With Me
-
-- Email: louiesjay.samole@hcdc.edu.ph 
-- LinkedIn: www.linkedin.com/in/louiesjay-samole
-
----
-
-⭐ Feel free to explore my repositories and leave a star if you find something useful.
